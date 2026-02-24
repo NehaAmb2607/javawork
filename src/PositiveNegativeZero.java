@@ -1,3 +1,5 @@
+package CodeChallengesForPractice.src;
+
 public class PositiveNegativeZero {
   public static void main(String[] args) {
     int display =checkNumber(12);

@@ -1,3 +1,5 @@
+package CodeChallengesForPractice.src;
+
 public class BarkingDog {
     public static void main(String args[]) {
         System.out.println("Barking Dog"+shouldWakeUp(true,44));

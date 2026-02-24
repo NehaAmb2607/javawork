@@ -1,3 +1,5 @@
+package CodeChallengesForPractice.src;
+
 public class SpeedConvertor {
     public static long toMilesPerHour(double kilometersPerHour) {
 

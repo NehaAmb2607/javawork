@@ -1,3 +1,5 @@
+package CodeChallengesForPractice.src;
+
 public class TeenNumberChecker {
     public static void main(String[] args) {
        System.out.println(hasTeen(23,22,42));
